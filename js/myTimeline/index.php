@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>jquery鼠标悬停横向时间轴代码 </title>
